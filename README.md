@@ -1,1 +1,1 @@
-# iqc.iaps.institute
+# qc.iaps.institute
